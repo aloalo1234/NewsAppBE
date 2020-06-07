@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7222e842-cc91-466b-914d-f4d538cef5fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/newsdb.db" beforeDir="false" afterPath="$PROJECT_DIR$/data/newsdb.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/jss/material-kit-react/components/paginationStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/jss/material-kit-react/components/paginationStyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/CommentBox/ArticleCommentBox.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/CommentBox/ArticleCommentBox.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/CommentBox/Comment.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/CommentBox/Comment.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/CommentBox/CommentForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/CommentBox/CommentForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/CustomInput/CustomInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/CustomInput/CustomInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/FetchData/Articles.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/FetchData/Articles.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/FetchData/Trending.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/FetchData/Trending.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Menu/Menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/Menu/Menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Pagination/Pagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/Pagination/Pagination.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Pagination/Pagination.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Pagination/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/redux/reducers/userReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/redux/reducers/userReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/redux/saga/middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/redux/saga/middleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/redux/services/ArticlesApiService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/redux/services/ArticlesApiService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/ArticlePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/views/ArticlePage.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aykGG3oeNXZsTnxOp4hMbwjQZt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <option name="additionalOptions" value="--port=8000" />
+      <option name="flaskDebug" value="true" />
+      <module name="Python" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python" type="Python.FlaskServer">
+      <module name="Python" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.utils" />
+      <item itemvalue="Python.app" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7222e842-cc91-466b-914d-f4d538cef5fb" name="Default Changelist" comment="" />
+      <created>1587715124349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587715124349</updated>
+      <workItem from="1587715128143" duration="208000" />
+      <workItem from="1587733842935" duration="678000" />
+      <workItem from="1587773120740" duration="1211000" />
+      <workItem from="1587802957624" duration="3288000" />
+      <workItem from="1587862819371" duration="4042000" />
+      <workItem from="1587948141627" duration="39000" />
+      <workItem from="1587949447162" duration="2460000" />
+      <workItem from="1587952689351" duration="4044000" />
+      <workItem from="1587961339799" duration="21942000" />
+      <workItem from="1588030875129" duration="8992000" />
+      <workItem from="1588079112942" duration="4422000" />
+      <workItem from="1588295782609" duration="1895000" />
+      <workItem from="1588490563515" duration="237000" />
+      <workItem from="1588494118753" duration="1830000" />
+      <workItem from="1588502822690" duration="8505000" />
+      <workItem from="1588582208985" duration="3396000" />
+      <workItem from="1588646146210" duration="5053000" />
+      <workItem from="1588733017755" duration="642000" />
+      <workItem from="1588744798318" duration="3308000" />
+      <workItem from="1588853897673" duration="2004000" />
+      <workItem from="1589533597816" duration="567000" />
+      <workItem from="1589536604264" duration="613000" />
+      <workItem from="1589772852634" duration="622000" />
+      <workItem from="1589939642003" duration="1886000" />
+      <workItem from="1589983587757" duration="2347000" />
+      <workItem from="1590027324957" duration="727000" />
+      <workItem from="1590028421212" duration="3521000" />
+      <workItem from="1590048273125" duration="1048000" />
+      <workItem from="1590067279150" duration="1202000" />
+      <workItem from="1590112867347" duration="10736000" />
+      <workItem from="1590200786767" duration="413000" />
+      <workItem from="1590201302383" duration="2340000" />
+      <workItem from="1590205083746" duration="2800000" />
+      <workItem from="1590223394161" duration="9096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="0" key="#app" timestamp="1590292362894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#app/0.0.1366.728@0.0.1366.728" timestamp="1590292362894" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588512898920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588512898920" />
+    <state x="439" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591417703740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1591417703740" />
+    <state x="550" y="119" key="EnvironmentVariablesDialog" timestamp="1590292362211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="119" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590292362211" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1590201189127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590201189127" />
+    <state width="1345" height="169" key="GridCell.Tab.0.bottom" timestamp="1591448631528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591448631528" />
+    <state width="1345" height="169" key="GridCell.Tab.0.center" timestamp="1591448631528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591448631528" />
+    <state width="1345" height="169" key="GridCell.Tab.0.left" timestamp="1591448631528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591448631528" />
+    <state width="1345" height="169" key="GridCell.Tab.0.right" timestamp="1591448631528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591448631528" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1590229758023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590229758023" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1590229758023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590229758023" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1590229758023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590229758023" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1590229758023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590229758023" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1590223395278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590223395278" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1590202589003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1366.728@0.0.1366.728" timestamp="1590202589003" />
+  </component>
+</project>
